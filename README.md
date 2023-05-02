@@ -1,7 +1,7 @@
 <div align="center">
-  <b><h1>Análise de Pareto com Python</h1></b>
+  <b><h1>Site para cadastro de filmes</h1></b>
   
-![Alt text](./pareto.jpg "Optional title")
+![Alt text](./Imagens/capa.jpg "Optional title")
 </div>
 
 ##
@@ -9,8 +9,7 @@
 <div align="eight">
   <b><h1>💡 Sobre</h1></b>
 </div>
-
-Repositório com um programa desenvolvido para praticar a linguagem de programação python. E tem o objetivo de aprendizagem e melhora das habilidades, com o foco em realizar a análise de pareto através da linguagem python. 
+Site para cadastro de filmes para testar e fixar o conhecimento visto em aulas de programação web criando um crudtxt.
 
 ##
 
@@ -34,7 +33,11 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
 
 |      Estado      |     Plataforma   |                 Tarefa                |
 |      :---:       |       :---:      |                  :---:                |
-|:heavy_check_mark:|:computer:        |Elabore um código na linguagem python que receba como entrada os dados (variável nominal) de um arquivo TXT e apresente como saída uma tabela organizada na forma propícia para Análise de Pareto|
+|:heavy_check_mark:|:computer:        |CrudTXT|
+|:heavy_check_mark:|:computer:        |Inserir registro |
+|:heavy_check_mark:|:computer:        |Deletar registro  |
+|:heavy_check_mark:|:computer:        |Atualizar registro |
+
 
 </details>
 </div>
@@ -47,21 +50,24 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
 
 <div align="center">
   
-# Resultado no excel
-![Alt text](./resultado-excel.jpg "Optional title")
+![Alt text](./Imagens/tela-de-cadastro-de-filmes.png "Optional title")
+# Tela de cadastro
   
-# Resultado em python
-![Alt text](./resultado-python.png "Optional title")
+![Alt text](./Imagens/tela-de-registros.png "Optional title")
+# Tela de registros
+
+![Alt text](./Imagens/tela-de-atualizar-registros.png "Optional title")
+# Tela de atualizar registros
 
 </div>
 
 ##
 
 <div align="eight">
-  <b><h1>💻 Executar</h1></b>
+  <b><h1>💻 Download</h1></b>
 </div>
 
-Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Analise-de-pareto/archive/refs/heads/main.zip) este repositório e ter algum meio que seja compativel com a linguagem de programação python.
+Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu GitHub com a opção de fork ou clique em [`baixar`](https://github.com/RamonCintas/Site-de-cadastro-de-Filmes/archive/refs/heads/main.zip) esse repositório.
 
 ##
 
@@ -76,9 +82,12 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |Ferramentas|
 |:-:|
 |<img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">[Sistema Windows](https://www.microsoft.com/pt-br/windows)|
-|<img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">[Python](https://www.python.org/)|
-|[GDB Online Debugger](https://www.onlinegdb.com/)|
-|[Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)|
+|<img align="center" alt="Ramon-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">[PHP](https://www.php.net/)|
+|<img align="center" alt="Ramon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">[HTML](https://www.w3schools.com/html/)|
+|<img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">[CSS](https://www.w3schools.com/css/)|
+|<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">Javascript|
+|Visual Studio Code|
+
 </div>
 
 ##
