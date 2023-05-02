@@ -85,7 +85,7 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |<img align="center" alt="Ramon-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">[PHP](https://www.php.net/)|
 |<img align="center" alt="Ramon-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">[HTML](https://www.w3schools.com/html/)|
 |<img align="center" alt="Ramon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">[CSS](https://www.w3schools.com/css/)|
-|<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">Javascript|
+|<img align="center" alt="Ramon-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript|
 |Visual Studio Code|
 
 </div>
